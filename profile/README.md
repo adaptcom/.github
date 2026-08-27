@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/team.webp" alt="The Adapt team together in the office lounge in San Francisco's Presidio" width="100%">
+<img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/team.jpg" alt="The Adapt team together in the office lounge in San Francisco's Presidio" width="100%">
 
 # Adapt
 
@@ -23,10 +23,10 @@ We believe that all companies will eventually run on an intelligence that integr
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/pairing.webp" alt="Two Adapt engineers pair programming at dusk, with the Golden Gate Bridge visible through the window" width="100%">
+      <img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/pairing.jpg" alt="Two Adapt engineers pair programming at dusk, with the Golden Gate Bridge visible through the window" width="100%">
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/jim-casey.webp" alt="Two Adapt teammates talking through a problem at a desk in the office" width="100%">
+      <img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/jim-casey.jpg" alt="Two Adapt teammates talking through a problem at a desk in the office" width="100%">
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ Well you've caught us early, so... we're still pretty heads down building. But i
 
 ## Join us
 
-<img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/presidio-walk.webp" alt="Adapt teammates walking past the red-brick Presidio barracks in San Francisco" width="100%">
+<img src="https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/presidio-walk.jpg" alt="Adapt teammates walking past the red-brick Presidio barracks in San Francisco" width="100%">
 
 We're a small team in the Presidio of five engineers and a total team size of ten. If any and hopefully all of this sounds interesting, consider joining us and seeing if we have any open roles that pique your interest [here][careers].
 
