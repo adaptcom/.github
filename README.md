@@ -1,2 +1,3 @@
-# .github
-Adapt is the open platform for building company agents
+# Adapt
+
+This is the boilerplate repo for the Adapt org.
