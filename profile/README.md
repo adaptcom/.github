@@ -1,6 +1,6 @@
 ## Adapt
 
-Hi! We're Adapt and we're a small team in San Francisco building the open-platform for company agents. What's that you asked? Glad you asked, let us enumerate what means to us.
+Hi! We're [Adapt][adapt] and we're a small team in San Francisco building the open-platform for company agents. What's that you asked? Glad you asked, let us enumerate what means to us.
 
 ## Thesis
 
@@ -17,4 +17,7 @@ Well you've caught us early, so... we're still pretty heads down building. But i
 
 ## Join us
 
-We're a small team in the Presidio of five engineers and a total team size of ten. If any and hopefully all of this sounds interesting, consider joining us and seeing if we have any open roles that pique your interest [here](https://adapt.com/careers).
+We're a small team in the Presidio of five engineers and a total team size of ten. If any and hopefully all of this sounds interesting, consider joining us and seeing if we have any open roles that pique your interest [here][careers].
+
+[adapt]: https://adapt.com
+[careers]: https://adapt.com/careers
