@@ -20,4 +20,4 @@ Well you've caught us early, so... we're still pretty heads down building. But i
 We're a small team in the Presidio of five engineers and a total team size of ten. If any and hopefully all of this sounds interesting, consider joining us and seeing if we have any open roles that pique your interest [here][careers].
 
 [adapt]: https://adapt.com
-[careers]: https://adapt.com/careers
+[careers]: https://adapt.com/company#positions
