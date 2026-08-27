@@ -4,7 +4,7 @@ Hi! We're [Adapt][adapt] and we're a small team in San Francisco building the op
 
 ## Thesis
 
-We believe that all companies will eventually run on an intelligence that integrates with everything and does work for you, maximizing and focusign the output of human creativity. We don't aim to replace humans we aim to make them so much better and feel like every day their usage of AI feels like a super power and makes working fun.
+We believe that all companies will eventually run on an intelligence that integrates with everything and does work for you, maximizing and focusing the output of human creativity. We don't aim to replace humans we aim to make build novel, delightful, and simple tooling that makes every day feel like the best day at work.
 
 ## What we're building
 
